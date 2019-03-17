@@ -1,0 +1,7 @@
+create table custom_01(
+p_id varchar2(10) primary key,
+p_pw varchar2(10),
+c_name varchar2(20),
+c_email varchar2(20),
+c_tel  varchar2(14)
+)
